@@ -1,0 +1,31 @@
+body {
+  font-family: 'Chivo Mono', monospace;
+  background: #538f6a;
+  text-align: center;
+  color: #e0e7f1;
+  border: 40px solid #aebd77;
+}
+
+h1, h2 {
+  color: black;
+}
+
+p {
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+form {
+  margin: 20px;
+}
+
+#sub {
+  background: #f73859;
+  color: white;
+  height: 40px;
+  width: 150px;
+  margin: 6px;
+  font-size: 15px;
+  border-radius: 25px;
+}
