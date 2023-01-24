@@ -43,7 +43,10 @@ while(num<25){
   }
   num++
 }
-
-
 // METHOD TWO
 // For Loop
+for (var num =0; num <25; num++){
+  if (num%2 !==0){
+    console.log(num);
+  }
+}
